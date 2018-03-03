@@ -1,1 +1,1 @@
-#Sandforce license文件生成
+# Sandforce license文件生成
